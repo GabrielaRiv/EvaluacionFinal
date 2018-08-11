@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LocateApp</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_list">Details</string>
+    <string name="lon">longitude</string>
+    <string name="lat">latitude</string>
+    <string name="title">title</string>
+    <string name="description">description</string>
+    <string name="date_created">date</string>
+    <string name="title_location">location map</string>
+    <string name="adapter_info">You are here</string>
+    <string name="list">See list</string>
+    <string name="add">Add</string>
+    <string name="validation1">Error</string>
+
+    <string-array name="placeType">
+        <item>Restaurant</item>
+        <item>Supermarket</item>
+        <item>Hotel</item>
+    </string-array>
+</resources>
